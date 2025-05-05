@@ -91,7 +91,7 @@ Este projeto é de uso educacional e livre para modificações.
 
 ## 👨‍💻 Autor
 
-Desenvolvido com fins de aprendizado de:
+Desenvolvido com fins de aprendizado por Augusto Câmara:
 - Requisições HTTP com `HttpClient`
 - Processamento de JSON com Gson
 - Interação com o usuário no console
